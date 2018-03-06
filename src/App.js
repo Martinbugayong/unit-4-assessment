@@ -6,6 +6,13 @@ import Circles from './Components/Circles/Circles'
 
 
 class App extends Component {
+  constructor(){
+    super();
+    this.state = {
+      
+    }
+  }
+
   render() {
     return (
       <div className="App">
